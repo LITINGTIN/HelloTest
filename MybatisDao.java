@@ -11,7 +11,7 @@ import org.slf4j.LoggerFactory;
 import java.util.List;
 
 /**
- * Mybatis的操作类
+ * Mybatis的操作类 -- chujie
  *
  * @author songbo.cai
  * @since 1.0.0 2012-07-28
