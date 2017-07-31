@@ -29,7 +29,7 @@ public class MybatisDao extends SqlSessionDaoSupport {
      * @param key       xml文件中sql的唯一标识，命名空间+ID
      * @param parameter 和xml的key值对应语句的参数
      */
-    public void testJenkins11(String key, Object parameter) {
+    public void testJenkins12(String key, Object parameter) {
         if (logger.isDebugEnabled()) {
             getExecuteSql(key, parameter);
         }
