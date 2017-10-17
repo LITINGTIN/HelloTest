@@ -32,6 +32,7 @@ public class MybatisDao extends SqlSessionDaoSupport {
     public void testJenkins14(String key, Object parameter) {
         if (logger.isDebugEnabled()) {
             getExecuteSql(key, parameter);
+
         }
         getSqlSession().update(key, parameter);
     }
@@ -85,4 +86,5 @@ public class MybatisDao extends SqlSessionDaoSupport {
         }
         return sql;
     }
+
 }
