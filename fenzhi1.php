@@ -14,9 +14,3 @@ echo 3;
 echo 4;
 
 echo "修改master分支";
-echo "创建第一个分支";
-
-echo "修改第一个分支";
-echo "创建第二个分支";
-
-echo "修改第二个分支";
