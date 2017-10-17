@@ -15,12 +15,9 @@ echo 4;
 
 echo "修改master分支";
 
-功能分支
 
-developf分支
+echo "创建第二个分支";
 
-功能分支
+echo "修改第二个分支";
 
-develop分支
-
-维护分支或者说是热分支
+echo "分支2上新建一个分支";
